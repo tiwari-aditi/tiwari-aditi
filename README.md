@@ -6,6 +6,6 @@
 <h2>💻 Some stats 💻</h2>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tiwari-aditi&show_icons=true&theme=synthwave" alt="tiwari-aditi:: Profile Stats" /></p>
+| <img src="https://github-readme-stats.vercel.app/api?username=tiwari-aditi&show_icons=true&theme=synthwave" alt="tiwari-aditi:: Profile Stats" /> | <a href="https://github.com/tiwari-aditi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-aditi&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ---
