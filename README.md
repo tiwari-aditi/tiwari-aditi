@@ -1,8 +1,7 @@
 <h1 align = "center">👋 Hi, I’m  Aditi Tiwari </h1>
 <br />
 
-<p><em>I'm an Engineering Undergraduate, majoring in Computer Science from India 🇮🇳
-<
+<p><em>I'm an Engineering Undergraduate, majoring in Computer Science from India 🇮🇳 <3
 <h2>💻 Some stats 💻</h2>
 
 
