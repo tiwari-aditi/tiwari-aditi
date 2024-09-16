@@ -2,7 +2,7 @@
 <br />
 
 <p><em>I'm an Engineering Undergraduate, majoring in Computer Science from India 🇮🇳 <3
-  <img align='centre' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+  <img align='centre' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij" width="200">
 
 <h2>💻 Some stats 💻</h2>
 
