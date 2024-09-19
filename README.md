@@ -1,7 +1,7 @@
 <h1 align = "center">👋 Hi, I’m  Aditi Tiwari </h1>
 <br />
 
-<p align="center"><em>I'm an Engineering Undergraduate, majoring in Computer Science from India 🇮🇳 <3
+<p align="center"><em>I'm a final year Engineering Undergraduate, majoring in Computer Science from India 🇮🇳 <3
 </br></br>
 <img align='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6dnl3NzBqZjk4eW53cGJpYWRlMm9wMmd4d3BkcHlmZ2hrZ3AyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="200">
 
